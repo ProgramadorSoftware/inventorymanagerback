@@ -1,0 +1,1 @@
+<td>{{ $<?php echo $modelVariable; ?>-><?php echo $fieldName; ?> }}</td><?php /**PATH C:\xampp\htdocs\inventorymanager\resources\views/vendor/adminlte-templates/templates/scaffold/table/blade/cell.blade.php ENDPATH**/ ?>
